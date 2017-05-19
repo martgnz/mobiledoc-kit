@@ -34,7 +34,7 @@ Mobiledoc is a deliberately simple and terse format, and you are encouraged to w
 
 ## Demo
 
-Try a demo at [bustlelabs.github.io/mobiledoc-kit/demo](https://bustlelabs.github.io/mobiledoc-kit/demo/).
+Try a demo at [bustle.github.io/mobiledoc-kit/demo](https://bustle.github.io/mobiledoc-kit/demo/).
 
 ## API Documentation
 
